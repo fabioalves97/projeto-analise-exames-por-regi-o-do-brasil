@@ -1,0 +1,101 @@
+Data,Exame,Quantidade,Receita,Região
+2025-02-13,Colesterol,85,4590,Bahia
+2025-03-19,Colesterol,47,1692,Bahia
+2025-02-25,PCR,87,4350,Pernambuco
+2025-02-16,PCR,70,3780,São Paulo
+2025-05-17,TSH,17,969,Minas Gerais
+2025-01-21,Triglicerídeos,94,6956,Paraná
+2025-02-16,Colesterol,55,4290,Minas Gerais
+2025-05-08,Vitamina D,119,8687,Minas Gerais
+2025-05-17,Colesterol,120,7200,Minas Gerais
+2025-04-01,Glicemia,83,4399,Paraná
+2025-04-25,Hemograma,25,1150,Bahia
+2025-02-28,TSH,24,960,Minas Gerais
+2025-03-03,Colesterol,65,2080,Bahia
+2025-03-15,Hemograma,25,800,Pernambuco
+2025-02-22,Triglicerídeos,13,429,Rio de Janeiro
+2025-05-25,TSH,100,6800,Pernambuco
+2025-01-27,Hemograma,64,4032,Minas Gerais
+2025-05-20,Triglicerídeos,10,460,Bahia
+2025-04-03,Hemograma,105,7455,Bahia
+2025-02-24,Colesterol,89,3738,São Paulo
+2025-01-01,Triglicerídeos,65,2275,Rio de Janeiro
+2025-01-25,Colesterol,86,4988,Paraná
+2025-03-18,Triglicerídeos,107,3424,São Paulo
+2025-04-10,PCR,41,3034,Paraná
+2025-03-13,Triglicerídeos,10,650,Bahia
+2025-02-04,Vitamina D,69,4209,Rio de Janeiro
+2025-03-19,Hemograma,32,992,Bahia
+2025-04-12,Triglicerídeos,115,8970,Rio de Janeiro
+2025-06-14,TSH,60,3780,Bahia
+2025-02-20,Vitamina D,69,2760,Bahia
+2025-04-21,PCR,71,4473,Pernambuco
+2025-06-08,Glicemia,30,2070,Pernambuco
+2025-05-11,Glicemia,36,2196,Rio de Janeiro
+2025-04-27,Vitamina D,81,4536,São Paulo
+2025-03-30,Triglicerídeos,114,6042,Minas Gerais
+2025-03-09,Hemograma,57,1938,Bahia
+2025-01-15,Colesterol,12,432,São Paulo
+2025-06-21,Hemograma,10,670,Rio de Janeiro
+2025-05-31,Glicemia,90,4410,São Paulo
+2025-05-04,Vitamina D,70,2100,Paraná
+2025-05-13,Hemograma,46,1518,Paraná
+2025-03-28,Glicemia,100,3000,Bahia
+2025-02-17,Colesterol,41,2173,Bahia
+2025-06-05,Triglicerídeos,49,3430,Minas Gerais
+2025-06-16,Vitamina D,17,1054,Pernambuco
+2025-02-08,Hemograma,112,3920,Pernambuco
+2025-01-31,Vitamina D,52,3588,Bahia
+2025-03-26,TSH,58,2958,Rio de Janeiro
+2025-04-29,PCR,59,2006,Pernambuco
+2025-06-16,Hemograma,21,735,Bahia
+2025-05-29,Colesterol,75,3150,Rio de Janeiro
+2025-02-03,Colesterol,107,4708,Rio de Janeiro
+2025-03-06,PCR,23,759,Pernambuco
+2025-06-26,Triglicerídeos,79,4661,Bahia
+2025-05-08,PCR,10,430,Bahia
+2025-05-29,Colesterol,77,4466,Pernambuco
+2025-03-09,Vitamina D,36,2412,Bahia
+2025-04-20,PCR,78,3042,São Paulo
+2025-06-19,Triglicerídeos,19,1463,Bahia
+2025-02-13,Glicemia,21,1218,Bahia
+2025-04-09,TSH,94,5922,Pernambuco
+2025-01-25,Vitamina D,114,7068,Bahia
+2025-01-05,PCR,99,6435,Paraná
+2025-06-07,Triglicerídeos,91,3731,Bahia
+2025-03-04,Glicemia,88,4400,Minas Gerais
+2025-05-29,Vitamina D,50,3550,São Paulo
+2025-02-07,Colesterol,11,407,Rio de Janeiro
+2025-06-18,Colesterol,34,1972,Bahia
+2025-02-25,Vitamina D,12,804,Minas Gerais
+2025-05-25,Hemograma,89,3026,Rio de Janeiro
+2025-02-05,Colesterol,45,3330,São Paulo
+2025-04-02,Hemograma,66,3102,Paraná
+2025-06-04,TSH,72,2304,Pernambuco
+2025-01-08,TSH,34,1938,Paraná
+2025-02-27,Glicemia,36,1188,Paraná
+2025-06-28,TSH,119,9282,Rio de Janeiro
+2025-05-11,Glicemia,33,1881,Rio de Janeiro
+2025-06-04,Hemograma,116,9164,Bahia
+2025-03-27,TSH,50,2450,Pernambuco
+2025-02-06,Hemograma,102,3672,Minas Gerais
+2025-06-17,TSH,104,6448,Pernambuco
+2025-03-17,Vitamina D,39,2301,Pernambuco
+2025-05-02,Triglicerídeos,117,5031,Rio de Janeiro
+2025-01-26,Colesterol,93,5115,Minas Gerais
+2025-01-14,PCR,79,3081,São Paulo
+2025-05-27,Glicemia,75,4350,São Paulo
+2025-02-02,Colesterol,10,350,Pernambuco
+2025-02-05,Hemograma,79,5451,Bahia
+2025-05-12,Triglicerídeos,69,5313,Bahia
+2025-03-18,Glicemia,13,442,Paraná
+2025-02-22,Vitamina D,102,4488,Bahia
+2025-05-27,PCR,52,3952,Minas Gerais
+2025-05-21,Hemograma,87,6873,Pernambuco
+2025-04-17,PCR,69,2070,Rio de Janeiro
+2025-06-14,Colesterol,80,4880,Minas Gerais
+2025-02-24,Triglicerídeos,114,8436,Rio de Janeiro
+2025-04-15,Hemograma,101,5555,Rio de Janeiro
+2025-05-12,Vitamina D,85,4165,Pernambuco
+2025-03-26,Triglicerídeos,52,1716,Rio de Janeiro
+2025-02-07,Triglicerídeos,64,2432,São Paulo
