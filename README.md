@@ -1,6 +1,6 @@
 # 📊 Projeto de Análise e Previsão de Receitas de Exames
 
-Este projeto foi desenvolvido com objetivo de praticar **análise de dados**, **visualização**, **regressão linear** e **deploy de pipeline** para apresentação em entrevista de emprego.
+Este projeto foi desenvolvido com objetivo de praticar **análise de dados**, **visualização**, **regressão linear** e **deploy de pipeline** para apresentação dos meus conhecimentos.
 
 ## 🧰 Tecnologias Utilizadas
 - Python (Pandas, Matplotlib, Seaborn, Scikit-Learn)
